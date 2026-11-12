@@ -1,10 +1,10 @@
 # Hi, I'm Bradley Lim
 
-Software QA Specialist with 5 years of experience, now moving into **QA Automation**. Based in Vancouver, BC.
+I am a Software QA Specialist with 5 years of experience, now moving into **QA Automation**. Based in Vancouver, BC.
 
 ## About me
 
-I spent five years testing web, mobile, and streaming apps for clients including Fox, Adobe, and Bitly. My day-to-day was writing test cases in TestRail, triaging in Jira, and tracking down hard-to-reproduce bugs with Charles Proxy and logs. I'm now building my automation skills and sharing the work here.
+I spent five years testing web, mobile, and streaming apps for clients including Fox, Adobe, TwitchTV, and Bitly. My day-to-day was writing test cases in TestRail, triaging in Jira, and tracking down hard-to-reproduce bugs with Charles Proxy and logs. I'm now building my automation skills and sharing the work here.
 
 ## Skills
 
@@ -26,4 +26,4 @@ I spent five years testing web, mobile, and streaming apps for clients including
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/bradleynlim/)
+- [LinkedIn](https://www.linkedin.com/in/bradleynlim/)
